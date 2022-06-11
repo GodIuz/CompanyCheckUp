@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Company Check Up</string>
+    <string name="welcome_to_company_check_up">Welcome to Company Check-Up</string>
+    <string name="start">Start</string>
+    <string name="apothema">Απόθεμα</string>
+    <string name="pagia">Πάγια</string>
+</resources>
